@@ -11,9 +11,7 @@ c. Demonstrate Overflow and Underflow on Stack
 d. Display the status of Stack
 e. Exit
 
---------------------------------------------
-Sample Input/Output:
-
+ 
 1. Push 
 2. Pop 
 3. Display 
